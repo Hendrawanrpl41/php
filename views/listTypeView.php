@@ -21,7 +21,7 @@
             </tr>
             <?PHP
             //import 
-            include "../controllers/listUser.php";
+            include "../controllers/lookupType.php";
             
             //variabel number
             $i=0;
